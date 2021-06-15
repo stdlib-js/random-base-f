@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-f",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "F distributed pseudorandom numbers.",
   "license": "Apache-2.0",
   "author": {
