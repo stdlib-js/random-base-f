@@ -442,6 +442,14 @@ for ( i = 0; i < 100; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/random-array/f`][@stdlib/random/array/f]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from an F distribution.</span>
+-   <span class="package-name">[`@stdlib/random-iter/f`][@stdlib/random/iter/f]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from an F distribution.</span>
+-   <span class="package-name">[`@stdlib/random-streams/f`][@stdlib/random/streams/f]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from an F distribution.</span>
+
 </section>
 
 <!-- /.related -->
@@ -485,8 +493,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/random-base-f.svg
 [npm-url]: https://npmjs.org/package/@stdlib/random-base-f
 
-[test-image]: https://github.com/stdlib-js/random-base-f/actions/workflows/test.yml/badge.svg?branch=v0.2.0
-[test-url]: https://github.com/stdlib-js/random-base-f/actions/workflows/test.yml?query=branch:v0.2.0
+[test-image]: https://github.com/stdlib-js/random-base-f/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/random-base-f/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-base-f/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/random-base-f?branch=main
@@ -521,6 +529,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [f]: https://en.wikipedia.org/wiki/F_distribution
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/array/f]: https://github.com/stdlib-js/random-array-f
+
+[@stdlib/random/iter/f]: https://github.com/stdlib-js/random-iter-f
+
+[@stdlib/random/streams/f]: https://github.com/stdlib-js/random-streams-f
+
+<!-- </related-links> -->
 
 </section>
 
