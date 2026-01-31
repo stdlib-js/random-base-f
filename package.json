@@ -54,6 +54,7 @@
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
+    "@stdlib/array-base-zeros": "^0.2.2",
     "@stdlib/array-uint32": "^0.2.2",
     "@stdlib/assert-is-uint32array": "^0.2.2",
     "@stdlib/constants-float64-eps": "^0.2.2",
