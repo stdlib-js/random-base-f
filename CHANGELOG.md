@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-08)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`5ba7ff8`](https://github.com/stdlib-js/stdlib/commit/5ba7ff8dfca15b98e7af533753bb6edebf0a05de) - **bench:** refactor to use string interpolation in `random/base/f` [(#10232)](https://github.com/stdlib-js/stdlib/pull/10232) _(by Shubham)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Shubham
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2026-02-08)
