@@ -449,6 +449,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/f`][@stdlib/random/array/f]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from an F distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/f`][@stdlib/random/iter/f]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from an F distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/f`][@stdlib/random/streams/f]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from an F distribution.</span>
+-   <span class="package-name">[`@stdlib/random-f`][@stdlib/random/f]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from an F distribution.</span>
 
 </section>
 
@@ -537,6 +538,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/f]: https://github.com/stdlib-js/random-iter-f
 
 [@stdlib/random/streams/f]: https://github.com/stdlib-js/random-streams-f
+
+[@stdlib/random/f]: https://github.com/stdlib-js/random-f
 
 <!-- </related-links> -->
 
